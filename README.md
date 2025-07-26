@@ -25,12 +25,12 @@ To classify chest X-ray images into NORMAL and PNEUMONIA using a Convolutional N
 ## 📊 Results
 Achieved over 90% accuracy with balanced sensitivity and specificity.
 
-## 📜 Presentation & Report
-- 📄 [Capstone Project Report (PDF)](report/Capstone_Project_Report.pdf)
-- 🎓 [Final Presentation Slides (PDF)](presentation/Capstone_Presentation.pdf)
+## 📝 Presentation & Report
+- 📄 [Capstone Project Report (PDF)](report/Capstone%20Project.pdf)
+- 🎓 [Final Presentation Slides (PDF)](presentation/Capstone%20Project%20PPT%20(1).pdf)
 
 ## 🔗 GitHub & Notebooks
-All notebooks are included in `notebooks/`. You can open them in Jupyter or Colab.
+[All notebooks are included in `notebooks/`. You can open them in Jupyter or Colab.](https://colab.research.google.com/drive/10bvpu2KyCV7SmEyzdGOpZuETTSkzoAeG?authuser=1)
 
 ---
 
